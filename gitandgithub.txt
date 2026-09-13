@@ -1,0 +1,16 @@
+git is a tool to keep a track of your changes of repositery/project
+
+>> for 1st time need to configure github in our system
+
+git config --global user.name "ARSUHANI26'
+git config --global user.email "arsuhani2603@gmail.com"
+git config --global color.ui auto
+
+>> mandatory commands:
+>> git init
+>> git remote add origin https://github.com/ARSUHANI26/GitDemo.git
+>> git status
+
+git add .
+git statusgit commit -m "Commit Message"
+git push
