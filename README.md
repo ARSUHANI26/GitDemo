@@ -1,2 +1,2 @@
 # GitDemo
-its my firs trial repositry
+its my first trial repositry
